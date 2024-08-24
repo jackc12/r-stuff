@@ -1,0 +1,251 @@
+total_pop,year,largest_city,race,full_name,count
+394017,1990,Atlanta,Non-Hispanic White,"Atlanta, GA",2071593
+498715,2020,Atlanta,Non-Hispanic White,"Atlanta, GA",2469687
+574283,1990,Boston,Non-Hispanic White,"Boston, MA",3251690
+675647,2020,Boston,Non-Hispanic White,"Boston, MA",2990817
+2783726,1990,Chicago,Non-Hispanic White,"Chicago, IL",4431723
+2746388,2020,Chicago,Non-Hispanic White,"Chicago, IL",3961378
+364040,1990,Cincinnati,Non-Hispanic White,"Cincinnati, OH",1402278
+309317,2020,Cincinnati,Non-Hispanic White,"Cincinnati, OH",1567772
+1006877,1990,Dallas,Non-Hispanic White,"Dallas, TX",2313870
+1304379,2020,Dallas,Non-Hispanic White,"Dallas, TX",2899981
+467610,1990,Denver,Non-Hispanic White,"Denver, CO",1011559
+715522,2020,Denver,Non-Hispanic White,"Denver, CO",1425449
+1027974,1990,Detroit,Non-Hispanic White,"Detroit, MI",2943024
+639111,2020,Detroit,Non-Hispanic White,"Detroit, MI",2738763
+1630553,1990,Houston,Non-Hispanic White,"Houston, TX",1516637
+2304580,2020,Houston,Non-Hispanic White,"Houston, TX",1853800
+258295,1990,Las Vegas,Non-Hispanic White,"Las vegas, NV",372643
+641903,2020,Las Vegas,Non-Hispanic White,"Las vegas, NV",633241
+3485398,1990,Los Angeles,Non-Hispanic White,"Los Angeles, CA",3873747
+3898747,2020,Los Angeles,Non-Hispanic White,"Los Angeles, CA",2636212
+358548,1990,Miami,Non-Hispanic White,"Miami, FL",2165602
+442241,2020,Miami,Non-Hispanic White,"Miami, FL",1723677
+368383,1990,Minneapolis,Non-Hispanic White,"Minneapolis, MN",2078851
+429954,2020,Minneapolis,Non-Hispanic White,"Minneapolis, MN",2398666
+7322564,1990,New York,Non-Hispanic White,"New York, NY",7250405
+8804190,2020,New York,Non-Hispanic White,"New York, NY",5992320
+1585577,1990,Philadelphia,Non-Hispanic White,"Philadelphia, PA",3301495
+1603797,2020,Philadelphia,Non-Hispanic White,"Philadelphia, PA",3139712
+983403,1990,Phoenix,Non-Hispanic White,"Phoenix, AZ",1000284
+1608139,2020,Phoenix,Non-Hispanic White,"Phoenix, AZ",1925826
+369879,1990,Pittsburgh,Non-Hispanic White,"Pittsburgh, PA",1990264
+302971,2020,Pittsburgh,Non-Hispanic White,"Pittsburgh, PA",1760771
+160728,1990,Providence,Non-Hispanic White,"Providence, RI",1266443
+190934,2020,Providence,Non-Hispanic White,"Providence, RI",1137791
+226505,1990,Riverside,Non-Hispanic White,"Riverside, CA",1477507
+314998,2020,Riverside,Non-Hispanic White,"Riverside, CA",1267135
+159936,1990,Salt Lake City,Non-Hispanic White,"Salt Lake City, UT",542340
+199723,2020,Salt Lake City,Non-Hispanic White,"Salt Lake City, UT",732435
+1110549,1990,San Diego,Non-Hispanic White,"San Diego, CA",981546
+1386932,2020,San Diego,Non-Hispanic White,"San Diego, CA",857077
+723959,1990,San Francisco,Non-Hispanic White,"San Francisco, CA",1826959
+873965,2020,San Francisco,Non-Hispanic White,"San Francisco, CA",1376749
+516259,1990,Seattle,Non-Hispanic White,"Seattle, WA",1791219
+737015,2020,Seattle,Non-Hispanic White,"Seattle, WA",1890650
+396685,1990,St. Louis,Non-Hispanic White,"St. Louis, MO",1881837
+301578,2020,St. Louis,Non-Hispanic White,"St. Louis, MO",1853953
+280015,1990,Tampa,Non-Hispanic White,"Tampa, FL",1553975
+384959,2020,Tampa,Non-Hispanic White,"Tampa, FL",1721914
+405390,1990,Tucson,Non-Hispanic White,"Tucson, AZ",198075
+542629,2020,Tucson,Non-Hispanic White,"Tucson, AZ",300031
+394017,1990,Atlanta,Non-Hispanic Black,"Atlanta, GA",511368
+394017,1990,Atlanta,Non-Hispanic Asian,"Atlanta, GA",47652
+394017,1990,Atlanta,Hispanic/Latino,"Atlanta, GA",51392
+394017,1990,Atlanta,Other,"Atlanta, GA",6286
+498715,2020,Atlanta,Non-Hispanic Black,"Atlanta, GA",1786190
+498715,2020,Atlanta,Non-Hispanic Asian,"Atlanta, GA",374801
+498715,2020,Atlanta,Hispanic/Latino,"Atlanta, GA",700482
+498715,2020,Atlanta,Other,"Atlanta, GA",259940
+574283,1990,Boston,Non-Hispanic Black,"Boston, MA",79053
+574283,1990,Boston,Non-Hispanic Asian,"Boston, MA",87769
+574283,1990,Boston,Hispanic/Latino,"Boston, MA",127929
+574283,1990,Boston,Other,"Boston, MA",13171
+675647,2020,Boston,Non-Hispanic Black,"Boston, MA",210371
+675647,2020,Boston,Non-Hispanic Asian,"Boston, MA",350606
+675647,2020,Boston,Hispanic/Latino,"Boston, MA",454739
+675647,2020,Boston,Other,"Boston, MA",259452
+2783726,1990,Chicago,Non-Hispanic Black,"Chicago, IL",455322
+2783726,1990,Chicago,Non-Hispanic Asian,"Chicago, IL",149949
+2783726,1990,Chicago,Hispanic/Latino,"Chicago, IL",350393
+2783726,1990,Chicago,Other,"Chicago, IL",10963
+2746388,2020,Chicago,Non-Hispanic Black,"Chicago, IL",758260
+2746388,2020,Chicago,Non-Hispanic Asian,"Chicago, IL",488812
+2746388,2020,Chicago,Hispanic/Latino,"Chicago, IL",1419858
+2746388,2020,Chicago,Other,"Chicago, IL",243806
+364040,1990,Cincinnati,Non-Hispanic Black,"Cincinnati, OH",65843
+364040,1990,Cincinnati,Non-Hispanic Asian,"Cincinnati, OH",10120
+364040,1990,Cincinnati,Hispanic/Latino,"Cincinnati, OH",7208
+364040,1990,Cincinnati,Other,"Cincinnati, OH",2404
+309317,2020,Cincinnati,Non-Hispanic Black,"Cincinnati, OH",146151
+309317,2020,Cincinnati,Non-Hispanic Asian,"Cincinnati, OH",59515
+309317,2020,Cincinnati,Hispanic/Latino,"Cincinnati, OH",79237
+309317,2020,Cincinnati,Other,"Cincinnati, OH",94892
+1006877,1990,Dallas,Non-Hispanic Black,"Dallas, TX",260224
+1006877,1990,Dallas,Non-Hispanic Asian,"Dallas, TX",73675
+1006877,1990,Dallas,Hispanic/Latino,"Dallas, TX",314216
+1006877,1990,Dallas,Other,"Dallas, TX",15575
+1304379,2020,Dallas,Non-Hispanic Black,"Dallas, TX",898117
+1304379,2020,Dallas,Non-Hispanic Asian,"Dallas, TX",553398
+1304379,2020,Dallas,Hispanic/Latino,"Dallas, TX",1684060
+1304379,2020,Dallas,Other,"Dallas, TX",297452
+467610,1990,Denver,Non-Hispanic Black,"Denver, CO",34619
+467610,1990,Denver,Non-Hispanic Asian,"Denver, CO",25246
+467610,1990,Denver,Hispanic/Latino,"Denver, CO",104403
+467610,1990,Denver,Other,"Denver, CO",7052
+715522,2020,Denver,Non-Hispanic Black,"Denver, CO",96867
+715522,2020,Denver,Non-Hispanic Asian,"Denver, CO",107485
+715522,2020,Denver,Hispanic/Latino,"Denver, CO",492251
+715522,2020,Denver,Other,"Denver, CO",126247
+1027974,1990,Detroit,Non-Hispanic Black,"Detroit, MI",161992
+1027974,1990,Detroit,Non-Hispanic Asian,"Detroit, MI",47695
+1027974,1990,Detroit,Hispanic/Latino,"Detroit, MI",54666
+1027974,1990,Detroit,Other,"Detroit, MI",13348
+639111,2020,Detroit,Non-Hispanic Black,"Detroit, MI",459250
+639111,2020,Detroit,Non-Hispanic Asian,"Detroit, MI",201259
+639111,2020,Detroit,Hispanic/Latino,"Detroit, MI",168684
+639111,2020,Detroit,Other,"Detroit, MI",184974
+1630553,1990,Houston,Non-Hispanic Black,"Houston, TX",207651
+1630553,1990,Houston,Non-Hispanic Asian,"Houston, TX",62837
+1630553,1990,Houston,Hispanic/Latino,"Houston, TX",325080
+1630553,1990,Houston,Other,"Houston, TX",8205
+2304580,2020,Houston,Non-Hispanic Black,"Houston, TX",699595
+2304580,2020,Houston,Non-Hispanic Asian,"Houston, TX",423038
+2304580,2020,Houston,Hispanic/Latino,"Houston, TX",1656080
+2304580,2020,Houston,Other,"Houston, TX",185147
+258295,1990,Las Vegas,Non-Hispanic Black,"Las vegas, NV",40154
+258295,1990,Las Vegas,Non-Hispanic Asian,"Las vegas, NV",15748
+258295,1990,Las Vegas,Hispanic/Latino,"Las vegas, NV",50535
+258295,1990,Las Vegas,Other,"Las vegas, NV",4084
+641903,2020,Las Vegas,Non-Hispanic Black,"Las vegas, NV",195873
+641903,2020,Las Vegas,Non-Hispanic Asian,"Las vegas, NV",186977
+641903,2020,Las Vegas,Hispanic/Latino,"Las vegas, NV",487588
+641903,2020,Las Vegas,Other,"Las vegas, NV",119879
+3485398,1990,Los Angeles,Non-Hispanic Black,"Los Angeles, CA",519646
+3485398,1990,Los Angeles,Non-Hispanic Asian,"Los Angeles, CA",827898
+3485398,1990,Los Angeles,Hispanic/Latino,"Los Angeles, CA",2524659
+3485398,1990,Los Angeles,Other,"Los Angeles, CA",42372
+3898747,2020,Los Angeles,Non-Hispanic Black,"Los Angeles, CA",487440
+3898747,2020,Los Angeles,Non-Hispanic Asian,"Los Angeles, CA",1718776
+3898747,2020,Los Angeles,Hispanic/Latino,"Los Angeles, CA",4061606
+3898747,2020,Los Angeles,Other,"Los Angeles, CA",398217
+358548,1990,Miami,Non-Hispanic Black,"Miami, FL",571281
+358548,1990,Miami,Non-Hispanic Asian,"Miami, FL",47246
+358548,1990,Miami,Hispanic/Latino,"Miami, FL",904495
+358548,1990,Miami,Other,"Miami, FL",8928
+442241,2020,Miami,Non-Hispanic Black,"Miami, FL",1099651
+442241,2020,Miami,Non-Hispanic Asian,"Miami, FL",153279
+442241,2020,Miami,Hispanic/Latino,"Miami, FL",2505102
+442241,2020,Miami,Other,"Miami, FL",214383
+368383,1990,Minneapolis,Non-Hispanic Black,"Minneapolis, MN",41202
+368383,1990,Minneapolis,Non-Hispanic Asian,"Minneapolis, MN",48908
+368383,1990,Minneapolis,Hispanic/Latino,"Minneapolis, MN",30213
+368383,1990,Minneapolis,Other,"Minneapolis, MN",13186
+429954,2020,Minneapolis,Non-Hispanic Black,"Minneapolis, MN",252083
+429954,2020,Minneapolis,Non-Hispanic Asian,"Minneapolis, MN",239497
+429954,2020,Minneapolis,Hispanic/Latino,"Minneapolis, MN",198108
+429954,2020,Minneapolis,Other,"Minneapolis, MN",171953
+7322564,1990,New York,Non-Hispanic Black,"New York, NY",1019399
+7322564,1990,New York,Non-Hispanic Asian,"New York, NY",329303
+7322564,1990,New York,Hispanic/Latino,"New York, NY",899724
+7322564,1990,New York,Other,"New York, NY",24651
+8804190,2020,New York,Non-Hispanic Black,"New York, NY",1221716
+8804190,2020,New York,Non-Hispanic Asian,"New York, NY",1115257
+8804190,2020,New York,Hispanic/Latino,"New York, NY",2577277
+8804190,2020,New York,Other,"New York, NY",429710
+1585577,1990,Philadelphia,Non-Hispanic Black,"Philadelphia, PA",374406
+1585577,1990,Philadelphia,Non-Hispanic Asian,"Philadelphia, PA",67379
+1585577,1990,Philadelphia,Hispanic/Latino,"Philadelphia, PA",98662
+1585577,1990,Philadelphia,Other,"Philadelphia, PA",7949
+1603797,2020,Philadelphia,Non-Hispanic Black,"Philadelphia, PA",620629
+1603797,2020,Philadelphia,Non-Hispanic Asian,"Philadelphia, PA",278960
+1603797,2020,Philadelphia,Hispanic/Latino,"Philadelphia, PA",397874
+1603797,2020,Philadelphia,Other,"Philadelphia, PA",204079
+983403,1990,Phoenix,Non-Hispanic Black,"Phoenix, AZ",25686
+983403,1990,Phoenix,Non-Hispanic Asian,"Phoenix, AZ",19509
+983403,1990,Phoenix,Hispanic/Latino,"Phoenix, AZ",182457
+983403,1990,Phoenix,Other,"Phoenix, AZ",27141
+1608139,2020,Phoenix,Non-Hispanic Black,"Phoenix, AZ",147424
+1608139,2020,Phoenix,Non-Hispanic Asian,"Phoenix, AZ",140204
+1608139,2020,Phoenix,Hispanic/Latino,"Phoenix, AZ",811374
+1608139,2020,Phoenix,Other,"Phoenix, AZ",212865
+369879,1990,Pittsburgh,Non-Hispanic Black,"Pittsburgh, PA",84322
+369879,1990,Pittsburgh,Non-Hispanic Asian,"Pittsburgh, PA",10737
+369879,1990,Pittsburgh,Hispanic/Latino,"Pittsburgh, PA",10111
+369879,1990,Pittsburgh,Other,"Pittsburgh, PA",2976
+302971,2020,Pittsburgh,Non-Hispanic Black,"Pittsburgh, PA",128470
+302971,2020,Pittsburgh,Non-Hispanic Asian,"Pittsburgh, PA",48209
+302971,2020,Pittsburgh,Hispanic/Latino,"Pittsburgh, PA",41300
+302971,2020,Pittsburgh,Other,"Pittsburgh, PA",89209
+160728,1990,Providence,Non-Hispanic Black,"Providence, RI",21227
+160728,1990,Providence,Non-Hispanic Asian,"Providence, RI",12936
+160728,1990,Providence,Hispanic/Latino,"Providence, RI",34348
+160728,1990,Providence,Other,"Providence, RI",14107
+190934,2020,Providence,Non-Hispanic Black,"Providence, RI",56080
+190934,2020,Providence,Non-Hispanic Asian,"Providence, RI",40659
+190934,2020,Providence,Hispanic/Latino,"Providence, RI",153037
+190934,2020,Providence,Other,"Providence, RI",98078
+226505,1990,Riverside,Non-Hispanic Black,"Riverside, CA",153232
+226505,1990,Riverside,Non-Hispanic Asian,"Riverside, CA",82616
+226505,1990,Riverside,Hispanic/Latino,"Riverside, CA",627270
+226505,1990,Riverside,Other,"Riverside, CA",21663
+314998,2020,Riverside,Non-Hispanic Black,"Riverside, CA",301252
+314998,2020,Riverside,Non-Hispanic Asian,"Riverside, CA",318643
+314998,2020,Riverside,Hispanic/Latino,"Riverside, CA",2200822
+314998,2020,Riverside,Other,"Riverside, CA",196989
+159936,1990,Salt Lake City,Non-Hispanic Black,"Salt Lake City, UT",2937
+159936,1990,Salt Lake City,Non-Hispanic Asian,"Salt Lake City, UT",12365
+159936,1990,Salt Lake City,Hispanic/Latino,"Salt Lake City, UT",31099
+159936,1990,Salt Lake City,Other,"Salt Lake City, UT",3880
+199723,2020,Salt Lake City,Non-Hispanic Black,"Salt Lake City, UT",16946
+199723,2020,Salt Lake City,Non-Hispanic Asian,"Salt Lake City, UT",39912
+199723,2020,Salt Lake City,Hispanic/Latino,"Salt Lake City, UT",200106
+199723,2020,Salt Lake City,Other,"Salt Lake City, UT",68814
+1110549,1990,San Diego,Non-Hispanic Black,"San Diego, CA",51046
+1110549,1990,San Diego,Non-Hispanic Asian,"San Diego, CA",61731
+1110549,1990,San Diego,Hispanic/Latino,"San Diego, CA",281262
+1110549,1990,San Diego,Other,"San Diego, CA",11882
+1386932,2020,San Diego,Non-Hispanic Black,"San Diego, CA",67472
+1386932,2020,San Diego,Non-Hispanic Asian,"San Diego, CA",157151
+1386932,2020,San Diego,Hispanic/Latino,"San Diego, CA",708343
+1386932,2020,San Diego,Other,"San Diego, CA",121659
+723959,1990,San Francisco,Non-Hispanic Black,"San Francisco, CA",337201
+723959,1990,San Francisco,Non-Hispanic Asian,"San Francisco, CA",373246
+723959,1990,San Francisco,Hispanic/Latino,"San Francisco, CA",405644
+723959,1990,San Francisco,Other,"San Francisco, CA",19583
+873965,2020,San Francisco,Non-Hispanic Black,"San Francisco, CA",278314
+873965,2020,San Francisco,Non-Hispanic Asian,"San Francisco, CA",998989
+873965,2020,San Francisco,Hispanic/Latino,"San Francisco, CA",949445
+873965,2020,San Francisco,Other,"San Francisco, CA",271546
+516259,1990,Seattle,Non-Hispanic Black,"Seattle, WA",69496
+516259,1990,Seattle,Non-Hispanic Asian,"Seattle, WA",100179
+516259,1990,Seattle,Hispanic/Latino,"Seattle, WA",57206
+516259,1990,Seattle,Other,"Seattle, WA",24805
+737015,2020,Seattle,Non-Hispanic Black,"Seattle, WA",189048
+737015,2020,Seattle,Non-Hispanic Asian,"Seattle, WA",487813
+737015,2020,Seattle,Hispanic/Latino,"Seattle, WA",389913
+737015,2020,Seattle,Other,"Seattle, WA",324323
+396685,1990,St. Louis,Non-Hispanic Black,"St. Louis, MO",235682
+396685,1990,St. Louis,Non-Hispanic Asian,"St. Louis, MO",19726
+396685,1990,St. Louis,Hispanic/Latino,"St. Louis, MO",21537
+396685,1990,St. Louis,Other,"St. Louis, MO",5050
+301578,2020,St. Louis,Non-Hispanic Black,"St. Louis, MO",374351
+301578,2020,St. Louis,Non-Hispanic Asian,"St. Louis, MO",69425
+301578,2020,St. Louis,Hispanic/Latino,"St. Louis, MO",90864
+301578,2020,St. Louis,Other,"St. Louis, MO",130082
+280015,1990,Tampa,Non-Hispanic Black,"Tampa, FL",113065
+280015,1990,Tampa,Non-Hispanic Asian,"Tampa, FL",18572
+280015,1990,Tampa,Hispanic/Latino,"Tampa, FL",97239
+280015,1990,Tampa,Other,"Tampa, FL",5093
+384959,2020,Tampa,Non-Hispanic Black,"Tampa, FL",276435
+384959,2020,Tampa,Non-Hispanic Asian,"Tampa, FL",102015
+384959,2020,Tampa,Hispanic/Latino,"Tampa, FL",553401
+384959,2020,Tampa,Other,"Tampa, FL",136551
+405390,1990,Tucson,Non-Hispanic Black,"Tucson, AZ",3182
+405390,1990,Tucson,Non-Hispanic Asian,"Tucson, AZ",2917
+405390,1990,Tucson,Hispanic/Latino,"Tucson, AZ",44667
+405390,1990,Tucson,Other,"Tucson, AZ",12649
+542629,2020,Tucson,Non-Hispanic Black,"Tucson, AZ",8552
+542629,2020,Tucson,Non-Hispanic Asian,"Tucson, AZ",13508
+542629,2020,Tucson,Hispanic/Latino,"Tucson, AZ",143910
+542629,2020,Tucson,Other,"Tucson, AZ",34803

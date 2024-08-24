@@ -1,0 +1,251 @@
+name2,total_pop,year,largest_city,race,full_name,count
+"Atlanta city, Georgia",394017,1990,Atlanta,Hispanic/Latino,"Atlanta, GA",7525
+"Atlanta city, Georgia",498715,2020,Atlanta,Non-Hispanic White,"Atlanta, GA",192148
+"Boston city, Massachusetts",574283,1990,Boston,Other,"Boston, MA",7067
+"Boston city, Massachusetts",675647,2020,Boston,Non-Hispanic Black,"Boston, MA",129264
+"Chicago city, Illinois",2783726,1990,Chicago,Non-Hispanic White,"Chicago, IL",1056048
+"Chicago city, Illinois",2746388,2020,Chicago,Non-Hispanic Asian,"Chicago, IL",189857
+"Cincinnati city, Ohio",364040,1990,Cincinnati,Non-Hispanic Asian,"Cincinnati, OH",3908
+"Cincinnati city, Ohio",309317,2020,Cincinnati,Non-Hispanic Asian,"Cincinnati, OH",7767
+"Dallas city, Texas",1006877,1990,Dallas,Hispanic/Latino,"Dallas, TX",210240
+"Dallas city, Texas",1304379,2020,Dallas,Hispanic/Latino,"Dallas, TX",551174
+"Denver city, Colorado",467610,1990,Denver,Other,"Denver, CO",5114
+"Denver city, Colorado",715522,2020,Denver,Non-Hispanic Asian,"Denver, CO",27198
+"Detroit city, Michigan",1027974,1990,Detroit,Non-Hispanic Black,"Detroit, MI",774529
+"Detroit city, Michigan",639111,2020,Detroit,Non-Hispanic White,"Detroit, MI",60770
+"Houston city, Texas",1630553,1990,Houston,Hispanic/Latino,"Houston, TX",450483
+"Houston city, Texas",2304580,2020,Houston,Other,"Houston, TX",70500
+"Las Vegas city, Nevada",258295,1990,Las Vegas,Hispanic/Latino,"Las vegas, NV",32369
+"Las Vegas city, Nevada",641903,2020,Las Vegas,Non-Hispanic Asian,"Las vegas, NV",44995
+"Los Angeles city, California",3485398,1990,Los Angeles,Hispanic/Latino,"Los Angeles, CA",1391411
+"Los Angeles city, California",3898747,2020,Los Angeles,Non-Hispanic White,"Los Angeles, CA",1126052
+"Miami city, Florida",358548,1990,Miami,Other,"Miami, FL",618
+"Miami city, Florida",442241,2020,Miami,Hispanic/Latino,"Miami, FL",310472
+"Minneapolis city, Minnesota",368383,1990,Minneapolis,Non-Hispanic Black,"Minneapolis, MN",47170
+"Minneapolis city, Minnesota",429954,2020,Minneapolis,Non-Hispanic White,"Minneapolis, MN",249581
+"New York city, New York",7322564,1990,New York,Non-Hispanic White,"New York, NY",3163125
+"New York city, New York",8804190,2020,New York,Other,"New York, NY",443591
+"Philadelphia city, Pennsylvania",1585577,1990,Philadelphia,Non-Hispanic White,"Philadelphia, PA",825839
+"Philadelphia city, Pennsylvania",1603797,2020,Philadelphia,Other,"Philadelphia, PA",68449
+"Phoenix city, Arizona",983403,1990,Phoenix,Hispanic/Latino,"Phoenix, AZ",197103
+"Phoenix city, Arizona",1608139,2020,Phoenix,Other,"Phoenix, AZ",92291
+"Pittsburgh city, Pennsylvania",369879,1990,Pittsburgh,Other,"Pittsburgh, PA",1081
+"Pittsburgh city, Pennsylvania",302971,2020,Pittsburgh,Other,"Pittsburgh, PA",16193
+"Providence city, Rhode Island",160728,1990,Providence,Non-Hispanic Black,"Providence, RI",20259
+"Providence city, Rhode Island",190934,2020,Providence,Other,"Providence, RI",11414
+"Riverside city, California",226505,1990,Riverside,Other,"Riverside, CA",1917
+"Riverside city, California",314998,2020,Riverside,Other,"Riverside, CA",14117
+"Salt Lake City city, Utah",159936,1990,Salt Lake City,Non-Hispanic White,"Salt Lake City, UT",132090
+"Salt Lake City city, Utah",199723,2020,Salt Lake City,Hispanic/Latino,"Salt Lake City, UT",41504
+"San Diego city, California",1110549,1990,San Diego,Other,"San Diego, CA",7030
+"San Diego city, California",1386932,2020,San Diego,Non-Hispanic Black,"San Diego, CA",77542
+"San Francisco city, California",723959,1990,San Francisco,Non-Hispanic Black,"San Francisco, CA",76343
+"San Francisco city, California",873965,2020,San Francisco,Non-Hispanic Asian,"San Francisco, CA",294220
+"Seattle city, Washington",516259,1990,Seattle,Other,"Seattle, WA",7428
+"Seattle city, Washington",737015,2020,Seattle,Non-Hispanic White,"Seattle, WA",438168
+"St. Louis city, Missouri",396685,1990,St. Louis,Non-Hispanic Asian,"St. Louis, MO",3616
+"St. Louis city, Missouri",301578,2020,St. Louis,Other,"St. Louis, MO",15607
+"Tampa city, Florida",280015,1990,Tampa,Other,"Tampa, FL",876
+"Tampa city, Florida",384959,2020,Tampa,Hispanic/Latino,"Tampa, FL",98621
+"Tucson city, Arizona",405390,1990,Tucson,Hispanic/Latino,"Tucson, AZ",118595
+"Tucson city, Arizona",542629,2020,Tucson,Non-Hispanic White,"Tucson, AZ",236837
+"Atlanta city, Georgia",394017,1990,Atlanta,Other,"Atlanta, GA",694
+"Atlanta city, Georgia",394017,1990,Atlanta,Non-Hispanic Black,"Atlanta, GA",263107
+"Atlanta city, Georgia",394017,1990,Atlanta,Non-Hispanic White,"Atlanta, GA",119266
+"Atlanta city, Georgia",394017,1990,Atlanta,Non-Hispanic Asian,"Atlanta, GA",3425
+"Atlanta city, Georgia",498715,2020,Atlanta,Hispanic/Latino,"Atlanta, GA",29988
+"Atlanta city, Georgia",498715,2020,Atlanta,Non-Hispanic Black,"Atlanta, GA",233018
+"Atlanta city, Georgia",498715,2020,Atlanta,Other,"Atlanta, GA",21353
+"Atlanta city, Georgia",498715,2020,Atlanta,Non-Hispanic Asian,"Atlanta, GA",22208
+"Boston city, Massachusetts",574283,1990,Boston,Non-Hispanic Asian,"Boston, MA",29640
+"Boston city, Massachusetts",574283,1990,Boston,Hispanic/Latino,"Boston, MA",61955
+"Boston city, Massachusetts",574283,1990,Boston,Non-Hispanic Black,"Boston, MA",136887
+"Boston city, Massachusetts",574283,1990,Boston,Non-Hispanic White,"Boston, MA",338734
+"Boston city, Massachusetts",675647,2020,Boston,Other,"Boston, MA",43218
+"Boston city, Massachusetts",675647,2020,Boston,Non-Hispanic Asian,"Boston, MA",75588
+"Boston city, Massachusetts",675647,2020,Boston,Non-Hispanic White,"Boston, MA",301464
+"Boston city, Massachusetts",675647,2020,Boston,Hispanic/Latino,"Boston, MA",126113
+"Chicago city, Illinois",2783726,1990,Chicago,Non-Hispanic Black,"Chicago, IL",1074471
+"Chicago city, Illinois",2783726,1990,Chicago,Other,"Chicago, IL",8578
+"Chicago city, Illinois",2783726,1990,Chicago,Non-Hispanic Asian,"Chicago, IL",98777
+"Chicago city, Illinois",2783726,1990,Chicago,Hispanic/Latino,"Chicago, IL",545852
+"Chicago city, Illinois",2746388,2020,Chicago,Hispanic/Latino,"Chicago, IL",819518
+"Chicago city, Illinois",2746388,2020,Chicago,Non-Hispanic Black,"Chicago, IL",787551
+"Chicago city, Illinois",2746388,2020,Chicago,Non-Hispanic White,"Chicago, IL",863622
+"Chicago city, Illinois",2746388,2020,Chicago,Other,"Chicago, IL",85840
+"Cincinnati city, Ohio",364040,1990,Cincinnati,Non-Hispanic White,"Cincinnati, OH",218986
+"Cincinnati city, Ohio",364040,1990,Cincinnati,Hispanic/Latino,"Cincinnati, OH",2386
+"Cincinnati city, Ohio",364040,1990,Cincinnati,Other,"Cincinnati, OH",1058
+"Cincinnati city, Ohio",364040,1990,Cincinnati,Non-Hispanic Black,"Cincinnati, OH",137702
+"Cincinnati city, Ohio",309317,2020,Cincinnati,Hispanic/Latino,"Cincinnati, OH",15836
+"Cincinnati city, Ohio",309317,2020,Cincinnati,Non-Hispanic Black,"Cincinnati, OH",124654
+"Cincinnati city, Ohio",309317,2020,Cincinnati,Other,"Cincinnati, OH",15960
+"Cincinnati city, Ohio",309317,2020,Cincinnati,Non-Hispanic White,"Cincinnati, OH",145100
+"Dallas city, Texas",1006877,1990,Dallas,Non-Hispanic Asian,"Dallas, TX",20615
+"Dallas city, Texas",1006877,1990,Dallas,Non-Hispanic Black,"Dallas, TX",290882
+"Dallas city, Texas",1006877,1990,Dallas,Non-Hispanic White,"Dallas, TX",479980
+"Dallas city, Texas",1006877,1990,Dallas,Other,"Dallas, TX",5160
+"Dallas city, Texas",1304379,2020,Dallas,Non-Hispanic Asian,"Dallas, TX",47820
+"Dallas city, Texas",1304379,2020,Dallas,Other,"Dallas, TX",40228
+"Dallas city, Texas",1304379,2020,Dallas,Non-Hispanic Black,"Dallas, TX",298764
+"Dallas city, Texas",1304379,2020,Dallas,Non-Hispanic White,"Dallas, TX",366393
+"Denver city, Colorado",467610,1990,Denver,Hispanic/Latino,"Denver, CO",107382
+"Denver city, Colorado",467610,1990,Denver,Non-Hispanic Black,"Denver, CO",57793
+"Denver city, Colorado",467610,1990,Denver,Non-Hispanic White,"Denver, CO",287162
+"Denver city, Colorado",467610,1990,Denver,Non-Hispanic Asian,"Denver, CO",10159
+"Denver city, Colorado",715522,2020,Denver,Non-Hispanic White,"Denver, CO",388764
+"Denver city, Colorado",715522,2020,Denver,Other,"Denver, CO",39002
+"Denver city, Colorado",715522,2020,Denver,Hispanic/Latino,"Denver, CO",199460
+"Denver city, Colorado",715522,2020,Denver,Non-Hispanic Black,"Denver, CO",61098
+"Detroit city, Michigan",1027974,1990,Detroit,Non-Hispanic White,"Detroit, MI",212278
+"Detroit city, Michigan",1027974,1990,Detroit,Other,"Detroit, MI",4609
+"Detroit city, Michigan",1027974,1990,Detroit,Non-Hispanic Asian,"Detroit, MI",8085
+"Detroit city, Michigan",1027974,1990,Detroit,Hispanic/Latino,"Detroit, MI",28473
+"Detroit city, Michigan",639111,2020,Detroit,Hispanic/Latino,"Detroit, MI",51269
+"Detroit city, Michigan",639111,2020,Detroit,Non-Hispanic Asian,"Detroit, MI",10085
+"Detroit city, Michigan",639111,2020,Detroit,Non-Hispanic Black,"Detroit, MI",493212
+"Detroit city, Michigan",639111,2020,Detroit,Other,"Detroit, MI",23775
+"Houston city, Texas",1630553,1990,Houston,Non-Hispanic Asian,"Houston, TX",64126
+"Houston city, Texas",1630553,1990,Houston,Non-Hispanic White,"Houston, TX",662642
+"Houston city, Texas",1630553,1990,Houston,Other,"Houston, TX",6158
+"Houston city, Texas",1630553,1990,Houston,Non-Hispanic Black,"Houston, TX",447144
+"Houston city, Texas",2304580,2020,Houston,Non-Hispanic Asian,"Houston, TX",165189
+"Houston city, Texas",2304580,2020,Houston,Non-Hispanic Black,"Houston, TX",509479
+"Houston city, Texas",2304580,2020,Houston,Non-Hispanic White,"Houston, TX",545989
+"Houston city, Texas",2304580,2020,Houston,Hispanic/Latino,"Houston, TX",1013423
+"Las Vegas city, Nevada",258295,1990,Las Vegas,Other,"Las vegas, NV",2255
+"Las Vegas city, Nevada",258295,1990,Las Vegas,Non-Hispanic Black,"Las vegas, NV",28704
+"Las Vegas city, Nevada",258295,1990,Las Vegas,Non-Hispanic Asian,"Las vegas, NV",8735
+"Las Vegas city, Nevada",258295,1990,Las Vegas,Non-Hispanic White,"Las vegas, NV",186232
+"Las Vegas city, Nevada",641903,2020,Las Vegas,Other,"Las vegas, NV",44390
+"Las Vegas city, Nevada",641903,2020,Las Vegas,Non-Hispanic White,"Las vegas, NV",259561
+"Las Vegas city, Nevada",641903,2020,Las Vegas,Hispanic/Latino,"Las vegas, NV",213828
+"Las Vegas city, Nevada",641903,2020,Las Vegas,Non-Hispanic Black,"Las vegas, NV",79129
+"Los Angeles city, California",3485398,1990,Los Angeles,Non-Hispanic White,"Los Angeles, CA",1299604
+"Los Angeles city, California",3485398,1990,Los Angeles,Other,"Los Angeles, CA",19426
+"Los Angeles city, California",3485398,1990,Los Angeles,Non-Hispanic Black,"Los Angeles, CA",454289
+"Los Angeles city, California",3485398,1990,Los Angeles,Non-Hispanic Asian,"Los Angeles, CA",320668
+"Los Angeles city, California",3898747,2020,Los Angeles,Hispanic/Latino,"Los Angeles, CA",1829991
+"Los Angeles city, California",3898747,2020,Los Angeles,Non-Hispanic Asian,"Los Angeles, CA",454585
+"Los Angeles city, California",3898747,2020,Los Angeles,Other,"Los Angeles, CA",165566
+"Los Angeles city, California",3898747,2020,Los Angeles,Non-Hispanic Black,"Los Angeles, CA",322553
+"Miami city, Florida",358548,1990,Miami,Non-Hispanic Black,"Miami, FL",88319
+"Miami city, Florida",358548,1990,Miami,Non-Hispanic Asian,"Miami, FL",1895
+"Miami city, Florida",358548,1990,Miami,Hispanic/Latino,"Miami, FL",223964
+"Miami city, Florida",358548,1990,Miami,Non-Hispanic White,"Miami, FL",43752
+"Miami city, Florida",442241,2020,Miami,Non-Hispanic Black,"Miami, FL",52447
+"Miami city, Florida",442241,2020,Miami,Non-Hispanic White,"Miami, FL",61829
+"Miami city, Florida",442241,2020,Miami,Other,"Miami, FL",11704
+"Miami city, Florida",442241,2020,Miami,Non-Hispanic Asian,"Miami, FL",5789
+"Minneapolis city, Minnesota",368383,1990,Minneapolis,Non-Hispanic Asian,"Minneapolis, MN",15373
+"Minneapolis city, Minnesota",368383,1990,Minneapolis,Other,"Minneapolis, MN",12531
+"Minneapolis city, Minnesota",368383,1990,Minneapolis,Hispanic/Latino,"Minneapolis, MN",7900
+"Minneapolis city, Minnesota",368383,1990,Minneapolis,Non-Hispanic White,"Minneapolis, MN",285409
+"Minneapolis city, Minnesota",429954,2020,Minneapolis,Hispanic/Latino,"Minneapolis, MN",44513
+"Minneapolis city, Minnesota",429954,2020,Minneapolis,Non-Hispanic Asian,"Minneapolis, MN",24743
+"Minneapolis city, Minnesota",429954,2020,Minneapolis,Non-Hispanic Black,"Minneapolis, MN",81088
+"Minneapolis city, Minnesota",429954,2020,Minneapolis,Other,"Minneapolis, MN",30029
+"New York city, New York",7322564,1990,New York,Hispanic/Latino,"New York, NY",1783511
+"New York city, New York",7322564,1990,New York,Non-Hispanic Asian,"New York, NY",489851
+"New York city, New York",7322564,1990,New York,Other,"New York, NY",39028
+"New York city, New York",7322564,1990,New York,Non-Hispanic Black,"New York, NY",1847049
+"New York city, New York",8804190,2020,New York,Non-Hispanic Asian,"New York, NY",1373502
+"New York city, New York",8804190,2020,New York,Non-Hispanic Black,"New York, NY",1776891
+"New York city, New York",8804190,2020,New York,Non-Hispanic White,"New York, NY",2719856
+"New York city, New York",8804190,2020,New York,Hispanic/Latino,"New York, NY",2490350
+"Philadelphia city, Pennsylvania",1585577,1990,Philadelphia,Hispanic/Latino,"Philadelphia, PA",89193
+"Philadelphia city, Pennsylvania",1585577,1990,Philadelphia,Non-Hispanic Black,"Philadelphia, PA",623510
+"Philadelphia city, Pennsylvania",1585577,1990,Philadelphia,Non-Hispanic Asian,"Philadelphia, PA",42156
+"Philadelphia city, Pennsylvania",1585577,1990,Philadelphia,Other,"Philadelphia, PA",4879
+"Philadelphia city, Pennsylvania",1603797,2020,Philadelphia,Non-Hispanic Black,"Philadelphia, PA",613835
+"Philadelphia city, Pennsylvania",1603797,2020,Philadelphia,Hispanic/Latino,"Philadelphia, PA",238277
+"Philadelphia city, Pennsylvania",1603797,2020,Philadelphia,Non-Hispanic White,"Philadelphia, PA",550828
+"Philadelphia city, Pennsylvania",1603797,2020,Philadelphia,Non-Hispanic Asian,"Philadelphia, PA",132408
+"Phoenix city, Arizona",983403,1990,Phoenix,Other,"Phoenix, AZ",17056
+"Phoenix city, Arizona",983403,1990,Phoenix,Non-Hispanic White,"Phoenix, AZ",705692
+"Phoenix city, Arizona",983403,1990,Phoenix,Non-Hispanic Black,"Phoenix, AZ",48626
+"Phoenix city, Arizona",983403,1990,Phoenix,Non-Hispanic Asian,"Phoenix, AZ",14926
+"Phoenix city, Arizona",1608139,2020,Phoenix,Non-Hispanic Asian,"Phoenix, AZ",63996
+"Phoenix city, Arizona",1608139,2020,Phoenix,Non-Hispanic White,"Phoenix, AZ",671751
+"Phoenix city, Arizona",1608139,2020,Phoenix,Non-Hispanic Black,"Phoenix, AZ",118527
+"Phoenix city, Arizona",1608139,2020,Phoenix,Hispanic/Latino,"Phoenix, AZ",661574
+"Pittsburgh city, Pennsylvania",369879,1990,Pittsburgh,Hispanic/Latino,"Pittsburgh, PA",3468
+"Pittsburgh city, Pennsylvania",369879,1990,Pittsburgh,Non-Hispanic Black,"Pittsburgh, PA",94743
+"Pittsburgh city, Pennsylvania",369879,1990,Pittsburgh,Non-Hispanic Asian,"Pittsburgh, PA",5865
+"Pittsburgh city, Pennsylvania",369879,1990,Pittsburgh,Non-Hispanic White,"Pittsburgh, PA",264722
+"Pittsburgh city, Pennsylvania",302971,2020,Pittsburgh,Non-Hispanic White,"Pittsburgh, PA",187099
+"Pittsburgh city, Pennsylvania",302971,2020,Pittsburgh,Non-Hispanic Asian,"Pittsburgh, PA",19745
+"Pittsburgh city, Pennsylvania",302971,2020,Pittsburgh,Non-Hispanic Black,"Pittsburgh, PA",68314
+"Pittsburgh city, Pennsylvania",302971,2020,Pittsburgh,Hispanic/Latino,"Pittsburgh, PA",11620
+"Providence city, Rhode Island",160728,1990,Providence,Hispanic/Latino,"Providence, RI",24982
+"Providence city, Rhode Island",160728,1990,Providence,Non-Hispanic Asian,"Providence, RI",9051
+"Providence city, Rhode Island",160728,1990,Providence,Other,"Providence, RI",2738
+"Providence city, Rhode Island",160728,1990,Providence,Non-Hispanic White,"Providence, RI",103698
+"Providence city, Rhode Island",190934,2020,Providence,Non-Hispanic Asian,"Providence, RI",11359
+"Providence city, Rhode Island",190934,2020,Providence,Non-Hispanic White,"Providence, RI",61917
+"Providence city, Rhode Island",190934,2020,Providence,Non-Hispanic Black,"Providence, RI",22429
+"Providence city, Rhode Island",190934,2020,Providence,Hispanic/Latino,"Providence, RI",83815
+"Riverside city, California",226505,1990,Riverside,Non-Hispanic Asian,"Riverside, CA",11120
+"Riverside city, California",226505,1990,Riverside,Non-Hispanic Black,"Riverside, CA",15896
+"Riverside city, California",226505,1990,Riverside,Non-Hispanic White,"Riverside, CA",138746
+"Riverside city, California",226505,1990,Riverside,Hispanic/Latino,"Riverside, CA",58826
+"Riverside city, California",314998,2020,Riverside,Hispanic/Latino,"Riverside, CA",172386
+"Riverside city, California",314998,2020,Riverside,Non-Hispanic Asian,"Riverside, CA",22450
+"Riverside city, California",314998,2020,Riverside,Non-Hispanic White,"Riverside, CA",87213
+"Riverside city, California",314998,2020,Riverside,Non-Hispanic Black,"Riverside, CA",18832
+"Salt Lake City city, Utah",159936,1990,Salt Lake City,Hispanic/Latino,"Salt Lake City, UT",15508
+"Salt Lake City city, Utah",159936,1990,Salt Lake City,Non-Hispanic Asian,"Salt Lake City, UT",7405
+"Salt Lake City city, Utah",159936,1990,Salt Lake City,Other,"Salt Lake City, UT",2441
+"Salt Lake City city, Utah",159936,1990,Salt Lake City,Non-Hispanic Black,"Salt Lake City, UT",2492
+"Salt Lake City city, Utah",199723,2020,Salt Lake City,Non-Hispanic Asian,"Salt Lake City, UT",10840
+"Salt Lake City city, Utah",199723,2020,Salt Lake City,Other,"Salt Lake City, UT",15235
+"Salt Lake City city, Utah",199723,2020,Salt Lake City,Non-Hispanic White,"Salt Lake City, UT",126678
+"Salt Lake City city, Utah",199723,2020,Salt Lake City,Non-Hispanic Black,"Salt Lake City, UT",5466
+"San Diego city, California",1110549,1990,San Diego,Non-Hispanic White,"San Diego, CA",651735
+"San Diego city, California",1110549,1990,San Diego,Non-Hispanic Black,"San Diego, CA",98852
+"San Diego city, California",1110549,1990,San Diego,Hispanic/Latino,"San Diego, CA",229519
+"San Diego city, California",1110549,1990,San Diego,Non-Hispanic Asian,"San Diego, CA",123413
+"San Diego city, California",1386932,2020,San Diego,Non-Hispanic Asian,"San Diego, CA",243438
+"San Diego city, California",1386932,2020,San Diego,Hispanic/Latino,"San Diego, CA",411286
+"San Diego city, California",1386932,2020,San Diego,Non-Hispanic White,"San Diego, CA",565128
+"San Diego city, California",1386932,2020,San Diego,Other,"San Diego, CA",89538
+"San Francisco city, California",723959,1990,San Francisco,Other,"San Francisco, CA",4095
+"San Francisco city, California",723959,1990,San Francisco,Non-Hispanic White,"San Francisco, CA",337118
+"San Francisco city, California",723959,1990,San Francisco,Non-Hispanic Asian,"San Francisco, CA",205686
+"San Francisco city, California",723959,1990,San Francisco,Hispanic/Latino,"San Francisco, CA",100717
+"San Francisco city, California",873965,2020,San Francisco,Non-Hispanic Black,"San Francisco, CA",45071
+"San Francisco city, California",873965,2020,San Francisco,Other,"San Francisco, CA",56607
+"San Francisco city, California",873965,2020,San Francisco,Non-Hispanic White,"San Francisco, CA",341306
+"San Francisco city, California",873965,2020,San Francisco,Hispanic/Latino,"San Francisco, CA",136761
+"Seattle city, Washington",516259,1990,Seattle,Non-Hispanic Black,"Seattle, WA",50918
+"Seattle city, Washington",516259,1990,Seattle,Hispanic/Latino,"Seattle, WA",18349
+"Seattle city, Washington",516259,1990,Seattle,Non-Hispanic Asian,"Seattle, WA",59141
+"Seattle city, Washington",516259,1990,Seattle,Non-Hispanic White,"Seattle, WA",380423
+"Seattle city, Washington",737015,2020,Seattle,Non-Hispanic Black,"Seattle, WA",50234
+"Seattle city, Washington",737015,2020,Seattle,Non-Hispanic Asian,"Seattle, WA",124696
+"Seattle city, Washington",737015,2020,Seattle,Other,"Seattle, WA",63354
+"Seattle city, Washington",737015,2020,Seattle,Hispanic/Latino,"Seattle, WA",60563
+"St. Louis city, Missouri",396685,1990,St. Louis,Non-Hispanic Black,"St. Louis, MO",187805
+"St. Louis city, Missouri",396685,1990,St. Louis,Hispanic/Latino,"St. Louis, MO",5124
+"St. Louis city, Missouri",396685,1990,St. Louis,Non-Hispanic White,"St. Louis, MO",198956
+"St. Louis city, Missouri",396685,1990,St. Louis,Other,"St. Louis, MO",1184
+"St. Louis city, Missouri",301578,2020,St. Louis,Non-Hispanic White,"St. Louis, MO",129368
+"St. Louis city, Missouri",301578,2020,St. Louis,Hispanic/Latino,"St. Louis, MO",15405
+"St. Louis city, Missouri",301578,2020,St. Louis,Non-Hispanic Asian,"St. Louis, MO",12205
+"St. Louis city, Missouri",301578,2020,St. Louis,Non-Hispanic Black,"St. Louis, MO",128993
+"Tampa city, Florida",280015,1990,Tampa,Non-Hispanic Asian,"Tampa, FL",3621
+"Tampa city, Florida",280015,1990,Tampa,Hispanic/Latino,"Tampa, FL",42009
+"Tampa city, Florida",280015,1990,Tampa,Non-Hispanic White,"Tampa, FL",165302
+"Tampa city, Florida",280015,1990,Tampa,Non-Hispanic Black,"Tampa, FL",68207
+"Tampa city, Florida",384959,2020,Tampa,Non-Hispanic White,"Tampa, FL",166775
+"Tampa city, Florida",384959,2020,Tampa,Non-Hispanic Black,"Tampa, FL",80583
+"Tampa city, Florida",384959,2020,Tampa,Non-Hispanic Asian,"Tampa, FL",20587
+"Tampa city, Florida",384959,2020,Tampa,Other,"Tampa, FL",18393
+"Tucson city, Arizona",405390,1990,Tucson,Non-Hispanic Asian,"Tucson, AZ",8311
+"Tucson city, Arizona",405390,1990,Tucson,Non-Hispanic Black,"Tucson, AZ",16273
+"Tucson city, Arizona",405390,1990,Tucson,Other,"Tucson, AZ",5367
+"Tucson city, Arizona",405390,1990,Tucson,Non-Hispanic White,"Tucson, AZ",256844
+"Tucson city, Arizona",542629,2020,Tucson,Hispanic/Latino,"Tucson, AZ",228878
+"Tucson city, Arizona",542629,2020,Tucson,Non-Hispanic Asian,"Tucson, AZ",16336
+"Tucson city, Arizona",542629,2020,Tucson,Other,"Tucson, AZ",32876
+"Tucson city, Arizona",542629,2020,Tucson,Non-Hispanic Black,"Tucson, AZ",27702
