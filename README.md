@@ -1,7 +1,10 @@
 basically have it so now we have a datframe thats easy to select on year, city, and region
 
-run sabrina.R to run code. All the other files are just functions that are called by that
+run sab.R to run code. All the other files are just functions that are called by that
 
+see video called sab.mov
+
+To get the graph to shuw up I'm highlighting all the code in sab.R and then pressing command+enter
 
 Notes
 - Noticed a bit of an anomaly The white population of **suburbs** of **San Francisco, CA** for **year** **1990** is **1,826,959** but the **total population** is **723,959**
